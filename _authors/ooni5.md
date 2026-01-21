@@ -4,5 +4,5 @@ name: Oluwadurotimi O.
 jhed: ooni5
 email: ooni5@jhu.edu
 avatar: '/profiles/ooni5.jpg'
-description: "I am a sample student."
+description: "I am a student."
 ---
